@@ -1,6 +1,6 @@
 ﻿{
     "name": "ShipVoiceCommands",
-    "version_number": "1.4.0",
+    "version_number": "1.5.0",
     "description": "Provides simple voice commands for the ship.",
     "website_url": "",
     "dependencies": [

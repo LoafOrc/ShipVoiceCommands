@@ -12,7 +12,7 @@ namespace ShipVoiceCommands {
     public class ShipVoiceCommandsBase : BaseUnityPlugin {
         private const string modGUID = "me.loaforc.shipvoicecommands";
         private const string modName = "ShipVoiceCommands";
-        private const string modVersion = "1.4.0";
+        private const string modVersion = "1.5.0";
 
         private readonly Harmony harmony = new Harmony(modGUID);
         internal static ShipVoiceCommandsBase instance;
