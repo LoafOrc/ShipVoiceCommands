@@ -8,8 +8,14 @@ If there is any error:
 
 If it doesn't recognize correctly for you follow some basic steps [here](https://github.com/LoafOrc/VoiceRecognitionAPI?tab=readme-ov-file#it-doesnt-work-properly-help). If you've tried everything and are still not having it activate (or only having it activate sometimes) there isn't much I can do sadly. You can try edit the config to something that the recognition might pick up clearer, but this may not help. Behind the scenes this uses Microsofts Voice Recognition and beyond those basic steps it may not work with certain languages and/or accents.
 
+## IT TRIGGERS WHEN ITS NOT SUPPOSED TO
+Try upping the `Confidence` in the config to a higher value.
+
 ## Voice Commands
 Voice commands are only avaliable in the small region around your ship (where you would get teleported from if someone leaves). You can change this to global if you want in the settings (not recommened)
  - "open doors", "open ship doors" => Opens ship doors,
  - "close doors", "close ship doors" => Closes ship doors,
  - "teleport", "teleport player" => Activates Teleporter
+ - "camera toggle" => Toggles camera on/off
+ - "camera switch", "camera next" => Switches camera to next player
+ - "toggle lights" => Toggles lights on/off

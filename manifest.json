@@ -1,9 +1,10 @@
 ﻿{
     "name": "ShipVoiceCommands",
-    "version_number": "1.2.0",
+    "version_number": "1.4.0",
     "description": "Provides simple voice commands for the ship.",
     "website_url": "",
     "dependencies": [
-        "loaforc-VoiceRecognitionAPI-1.0.0"
+        "BepInEx-BepInExPack-5.4.2100",
+        "loaforc-VoiceRecognitionAPI-1.0.2"
     ]
 }
