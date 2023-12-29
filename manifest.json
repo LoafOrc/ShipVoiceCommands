@@ -1,0 +1,9 @@
+﻿{
+    "name": "ShipVoiceCommands",
+    "version_number": "1.2.0",
+    "description": "Provides simple voice commands for the ship.",
+    "website_url": "",
+    "dependencies": [
+        "loaforc-VoiceRecognitionAPI-1.0.0"
+    ]
+}
